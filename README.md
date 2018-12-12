@@ -1,5 +1,5 @@
 # PythonPOMSimpleProject
-Create a simple login test using Python POM and generate HTML Report
+Create a simple login test in Selenium using Python POM and generate HTML Report
 Implement unit testing
 implement Page Object Model
 Separate test scripts and objects
