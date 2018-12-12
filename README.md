@@ -6,3 +6,8 @@ Separate test scripts and objects
 Create a seperate class for Locators
 Run from Command Line( go to root project and then run [python -m Tests.login])
 Add HTML Report
+
+Python
+IDE - Eclipse
+Python lib -   selenium
+               Html test runner
